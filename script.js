@@ -51,7 +51,7 @@ function iniciar() {
   reiniciarBtn.hidden = true;
 
   mostrarSiguiente();
-  temporizador = setInterval(mostrarSiguiente, 5000);
+  temporizador = setInterval(mostrarSiguiente, 3000);
 }
 
 // Mostrar carta
